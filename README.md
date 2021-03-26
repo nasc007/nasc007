@@ -12,18 +12,22 @@ Passei boa parte da minha carreira como Tecnico de Informaica, hoje buscando nov
 <br/> :purple_heart: &nbsp; Dentre principais tecnologias, destaco em Front-End{
   <div>
     <div>
-      <img src="https://icons.getbootstrap.com/assets/img/icons-hero.png" width="70" title="Bootstrap">
-      <a href="https://www.slimframework.com/" 
-          style="font-family: brandon-grotesque;
-                  font-weight: 70;
-                  font-style: normal;
-                  color: #719e40;
-                  font-size: 120px;
-                  letter-spacing: -3px;
-                  line-height: 120px;
-                  text-align: center;" 
-            rel="nofollow"
-        >Slim</a>
+      <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/c3e073e60477a9a4543b5f7a941364acc9c9b4b19f783254c2ba06ca97232bde/68747470733a2f2f69636f6e732e676574626f6f7473747261702e636f6d2f6173736574732f696d672f69636f6e732d6865726f2e706e67" style=""><img src="https://camo.githubusercontent.com/c3e073e60477a9a4543b5f7a941364acc9c9b4b19f783254c2ba06ca97232bde/68747470733a2f2f69636f6e732e676574626f6f7473747261702e636f6d2f6173736574732f696d672f69636f6e732d6865726f2e706e67" width="50" title="Bootstrap" data-canonical-src="https://icons.getbootstrap.com/assets/img/icons-hero.png" 
+      style="vertical-align: sub;">
+      </a>&nbsp;&nbsp;
+      <a href="https://www.slimframework.com/" rel="nofollow" style="
+            font-family: brandon-grotesque;
+            /* font-weight: 70; */
+            font-style: normal;
+            color: #719e40;
+            font-size: 43px;
+            letter-spacing: -3px;
+            /* line-height: 29px; */
+            text-align: center;
+        ">Slim
+      </a>
+      <a href="https://www.google.com/url?sa=i&url=https%3A%2F%2Fpt.wikipedia.org%2Fwiki%2FHTML5&psig=AOvVaw1mHNfu_Z999kAwZspHIqvO&ust=1616854865706000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKjDofGTzu8CFQAAAAAdAAAAABAD" rel="nofollow" style="vertical-align: sub;">
+      </a>
     </div>
   </div>
 }
