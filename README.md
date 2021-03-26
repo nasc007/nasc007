@@ -18,7 +18,7 @@ Passei boa parte da minha carreira como Tecnico de Informaica, hoje buscando nov
       <a title="W3C, CC BY 3.0 &lt;https://creativecommons.org/licenses/by/3.0&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:HTML5_logo_and_wordmark.svg"><img width="64" alt="HTML5 logo and wordmark" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/64px-HTML5_logo_and_wordmark.svg.png">
       </a>
       &nbsp;
-      <a href="https://www.slimframework.com/" style="font-family: brandon-grotesque;font-style: normal;color: #719e40;font-size: 43px;letter-spacing:-3px;text-align: center;">Slim</a>
+      <a href="https://www.slimframework.com/" rel="nofollow" style="font-family: brandon-grotesque;font-style: normal;color: #719e40;font-size: 76px;letter-spacing:-3px;text-align: center;"><i style="font-family: brandon-grotesque;font-style: normal;color: #719e40;font-size: 76px;letter-spacing:-3px;">Slim</i></a>
     </div>
   </div>
 }
