@@ -16,5 +16,5 @@ Passei boa parte da minha carreira como Tecnico de Informaica, hoje buscando nov
 Seu progresso!
 
 <p align="center">
-  <img src="https://icons.getbootstrap.com/assets/img/icons-hero.pn" width="350" title="hover text">
+  <img src="https://icons.getbootstrap.com/assets/img/icons-hero.png" width="350" title="hover text">
 </p>
