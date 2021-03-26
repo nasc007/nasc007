@@ -9,8 +9,9 @@
 Passei boa parte da minha carreira como Tecnico de Informaica, hoje buscando novos horizontes na programação!
 
 🛄 &nbsp; Trabalho a mais de **2 anos** com Desenvolvimento Web!
-<br/> :purple_heart: &nbsp; Dentre principais tecnologias, destaco em Front-End (Bootstrap<img='https://getbootstrap.com.br/docs/4.1/assets/img/bootstrap-stack.png'/>, Slim, Responsividade )
+<br/> :purple_heart: &nbsp; Dentre principais tecnologias, destaco em Front-End (Bootstrap<img srcset="/assets/img/icons-hero.png, /assets/img/icons-hero@2x.png 2x" src="/assets/img/icons-hero.png" class="img-fluid my-3 mx-auto" alt="Bootstrap Icons" width="30" height="40">, Slim, Responsividade )
 <br/> :blush: &nbsp; Em Back-End pussuo conhecimento específico em **Javascript** e **PHP**
 
 - [Cursos](https://www.udemy.com/share/101WK0B0AccVhbTH4=/) 👨🏼‍🏫 - Desenvolvimento Web Completo 2021 - 20 cursos + 20 projetos
 Seu progresso!
+
