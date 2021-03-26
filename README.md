@@ -9,13 +9,13 @@
 Passei boa parte da minha carreira como Tecnico de Informaica, hoje buscando novos horizontes na programação!
 
 🛄 &nbsp; Trabalho a mais de **2 anos** com Desenvolvimento Web!
+
 <br/> :purple_heart: &nbsp; Dentre principais tecnologias, destaco em Front-End
   <div>
     <div>
       &nbsp;    
       <a title="W3C, CC BY 3.0 &lt;https://creativecommons.org/licenses/by/3.0&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:HTML5_logo_and_wordmark.svg"><img width="64" alt="HTML5 logo and wordmark" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/64px-HTML5_logo_and_wordmark.svg.png">
       </a>
-      &nbsp;
       <a title="Rudloff, CC BY 3.0 &lt;https://creativecommons.org/licenses/by/3.0&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:CSS3_logo_and_wordmark.svg"><img width="45" alt="CSS3 logo and wordmark" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/64px-CSS3_logo_and_wordmark.svg.png"></a>
       &nbsp;
       <a title="Bootstrap, Public domain, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Bootstrap_logo.svg"><img width="55" alt="Bootstrap logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/64px-Bootstrap_logo.svg.png">
@@ -35,7 +35,8 @@ Passei boa parte da minha carreira como Tecnico de Informaica, hoje buscando nov
     </div>
   </div>
 
-- [Cursos](https://www.udemy.com/share/101WK0B0AccVhbTH4=/) 👨🏼‍🏫 - Desenvolvimento Web Completo 2021 - 20 cursos + 20 projetos
+
+📚&nbsp;[Cursos](https://www.udemy.com/share/101WK0B0AccVhbTH4=/) 👨🏼‍🏫 - Desenvolvimento Web Completo 2021 - 20 cursos + 20 projetos
 Seu progresso!
 
 
