@@ -1,17 +1,17 @@
 # Hi, Me chamo Alessandro!
+<h1 align="center">Olá, Me chamo Alessandro!</h1>
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/fagnerpsantos)](https://github.com/nasc007)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fagnerpsantos/)](https://www.linkedin.com/in/alessandro-crespi-do-nascimento-a94582b2/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/fagnerpsantos)](https://twitter.com/alessandronasc0)
+<h4 align="center">Welcome to my profile. 😊😄</h4>
 
-### About me
 
-Passei boa parte da minha carreira como Tecnico de Informaica, hoje buscando novos horizontes na programação!
 
-🛄 &nbsp; Trabalho a mais de **2019** com Desenvolvimento Web!
+
+<h4 align="center">Passei boa parte da minha carreira como Tecnico de Informaica, hoje buscando novos horizontes na programação!</h4>
+
+<h4 align="center">🛄 &nbsp; Trabalho a mais de **2019** com Desenvolvimento Web!</h4>
 
 <br/> :purple_heart: &nbsp; Dentre principais tecnologias, destaco em Front-End
-  <div>
+  <div align="center">
     <div>   
       <a title="W3C, CC BY 3.0 &lt;https://creativecommons.org/licenses/by/3.0&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:HTML5_logo_and_wordmark.svg"><img width="64" alt="HTML5 logo and wordmark" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/64px-HTML5_logo_and_wordmark.svg.png">
       </a>
@@ -42,6 +42,14 @@ Passei boa parte da minha carreira como Tecnico de Informaica, hoje buscando nov
   ![Alessandro Nascimento github stats](https://github-readme-stats.vercel.app/api?username=nasc007&show_icons=true&theme=dark)
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nasc007&theme=dark)](https://github.com/nasc007/github-readme-stats)
+
+</div>
+
+<div align="center">
+
+  [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/fagnerpsantos)](https://github.com/nasc007)
+  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fagnerpsantos/)](https://www.linkedin.com/in/alessandro-crespi-do-nascimento-a94582b2/)
+  [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/fagnerpsantos)](https://twitter.com/alessandronasc0)
 
 </div>
 
