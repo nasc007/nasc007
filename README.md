@@ -11,19 +11,16 @@ Passei boa parte da minha carreira como Tecnico de Informaica, hoje buscando nov
 🛄 &nbsp; Trabalho a mais de **2 anos** com Desenvolvimento Web!
 <br/> :purple_heart: &nbsp; Dentre principais tecnologias, destaco em Front-End{
   <div>
-    <div>
-      <a title="Bootstrap, Public domain, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Bootstrap_logo.svg"><img width="64" alt="Bootstrap logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/64px-Bootstrap_logo.svg.png">
-      </a>
-      &nbsp;
+    <div>      
       <a title="W3C, CC BY 3.0 &lt;https://creativecommons.org/licenses/by/3.0&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:HTML5_logo_and_wordmark.svg"><img width="64" alt="HTML5 logo and wordmark" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/64px-HTML5_logo_and_wordmark.svg.png">
       </a>
       &nbsp;
-      <a href="http://clubedosgeeks.com.br/wp-content/uploads/2016/03/slim.fw_.png" rel="nofollow" style="font-family: brandon-grotesque;font-style: normal;color: #719e40;font-size: 76px;letter-spacing:-3px;text-align: center;"></a>
+      <a title="Rudloff, CC BY 3.0 &lt;https://creativecommons.org/licenses/by/3.0&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:CSS3_logo_and_wordmark.svg"><img width="64" alt="CSS3 logo and wordmark" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/64px-CSS3_logo_and_wordmark.svg.png"></a>
       &nbsp;
-      <a title="Rudloff, CC BY 3.0 &lt;https://creativecommons.org/licenses/by/3.0&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:CSS3_logo_and_wordmark.svg"><img width="32" alt="CSS3 logo and wordmark" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/32px-CSS3_logo_and_wordmark.svg.png">
+      <a title="Bootstrap, Public domain, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Bootstrap_logo.svg"><img width="64" alt="Bootstrap logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/64px-Bootstrap_logo.svg.png">
       </a>
       &nbsp;
-      <a title="#" href="https://www.slimframework.com/"><img width="32" alt="Slim a micro framework for PHP" src="http://clubedosgeeks.com.br/wp-content/uploads/2016/03/slim.fw_.png">
+      <a title="#" href="https://www.slimframework.com/"><img width="130" alt="Slim a micro framework for PHP" src="http://clubedosgeeks.com.br/wp-content/uploads/2016/03/slim.fw_.png">
       </a>
     </div>
   </div>
