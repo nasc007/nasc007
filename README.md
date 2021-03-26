@@ -1,10 +1,6 @@
-# Hi, Me chamo Alessandro!
 <h1 align="center">Olá, Me chamo Alessandro!</h1>
 
 <h4 align="center">Welcome to my profile. 😊😄</h4>
-
-
-
 
 <h4 align="center">Passei boa parte da minha carreira como Tecnico de Informaica, hoje buscando novos horizontes na programação!</h4>
 
@@ -37,7 +33,6 @@
 <br/><h4 align="center">
   📚&nbsp;[Cursos](https://www.udemy.com/share/101WK0B0AccVhbTH4=/) 👨🏼‍🏫 - Desenvolvimento Web Completo 2021 - 20 cursos + 20 projetos na [Udemy.com](https://www.udemy.com/share/101WK0B0AccVhbTH4=/)
 </h4>
- 
 
 <br/><div align="center">
 
@@ -49,10 +44,10 @@
 
 <div align="center">
 
-  [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/fagnerpsantos)](https://github.com/nasc007)
-  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fagnerpsantos/)](https://www.linkedin.com/in/alessandro-crespi-do-nascimento-a94582b2/)
-  [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/fagnerpsantos)](https://twitter.com/alessandronasc0)
-
+  [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/fagnerpsantos)](https://github.com/nasc007)&nbsp;&nbsp;
+  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fagnerpsantos/)](https://www.linkedin.com/in/alessandro-crespi-do-nascimento-a94582b2/)&nbsp;&nbsp;
+  [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/fagnerpsantos)](https://twitter.com/alessandronasc0)&nbsp;&nbsp;
+  
 </div>
 
 
