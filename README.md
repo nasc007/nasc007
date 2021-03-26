@@ -10,18 +10,20 @@ Passei boa parte da minha carreira como Tecnico de Informaica, hoje buscando nov
 
 🛄 &nbsp; Trabalho a mais de **2 anos** com Desenvolvimento Web!
 <br/> :purple_heart: &nbsp; Dentre principais tecnologias, destaco em Front-End{
-  <p align="center">
-    <img src="https://icons.getbootstrap.com/assets/img/icons-hero.png" width="70" title="Bootstrap">
+  <div>
+    <div>
+      <img src="https://icons.getbootstrap.com/assets/img/icons-hero.png" width="70" title="Bootstrap">
+    </div>
     <div class="font-family: brandon-grotesque;
-                font-weight: 70;
-                font-style: normal;
-                color: #719e40;
-                font-size: 120px;
-                letter-spacing: -3px;
-                line-height: 120px;
-                text-align: center;"
-      >Slim</div>
-  </p>
+                  font-weight: 70;
+                  font-style: normal;
+                  color: #719e40;
+                  font-size: 120px;
+                  letter-spacing: -3px;
+                  line-height: 120px;
+                  text-align: center;"
+    >Slim</div>
+  </div>
 }
 <br/> :blush: &nbsp; Em Back-End pussuo conhecimento específico em **Javascript** e **PHP**
 
