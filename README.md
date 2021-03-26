@@ -4,7 +4,7 @@
 
 <h4 align="center">Passei boa parte da minha carreira como Tecnico de Informaica, hoje buscando novos horizontes na programação!</h4>
 
-<h4 align="center">🛄 &nbsp; Trabalho desde **2019** com Desenvolvimento Web!</h4>
+<h4 align="center">🛄 &nbsp; Trabalho desde <strong>2019</strong> com Desenvolvimento Web!</h4>
 
 <br/><h4 align="center">:purple_heart: &nbsp; Dentre principais tecnologias, destaco em Front-End</h4>
 <div align="center">
@@ -47,7 +47,7 @@
   [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/fagnerpsantos)](https://github.com/nasc007)&nbsp;&nbsp;
   [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fagnerpsantos/)](https://www.linkedin.com/in/alessandro-crespi-do-nascimento-a94582b2/)&nbsp;&nbsp;
   [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/fagnerpsantos)](https://twitter.com/alessandronasc0)&nbsp;&nbsp;
-  
+
 </div>
 
 
