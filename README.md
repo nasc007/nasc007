@@ -32,9 +32,17 @@ Passei boa parte da minha carreira como Tecnico de Informaica, hoje buscando nov
       &nbsp;
       <a title="Colin Viebrock, CC BY-SA 4.0 &lt;https://creativecommons.org/licenses/by-sa/4.0&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:PHP-logo.svg"><img width="64" alt="PHP-logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/64px-PHP-logo.svg.png"></a>
     </div>
-  </div>
+  </div><br/>
 
 
 📚&nbsp;[Cursos](https://www.udemy.com/share/101WK0B0AccVhbTH4=/) 👨🏼‍🏫 - Desenvolvimento Web Completo 2021 - 20 cursos + 20 projetos na [Udemy.com](https://www.udemy.com/share/101WK0B0AccVhbTH4=/) 
+
+<div align="center">
+
+  ![Alessandro Nascimento github stats](https://github-readme-stats.vercel.app/api?username=nasc007&show_icons=true&theme=dark)
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nasc007&theme=dark)](https://github.com/nasc007/github-readme-stats)
+
+</div>
 
 
