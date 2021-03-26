@@ -36,7 +36,7 @@ Passei boa parte da minha carreira como Tecnico de Informaica, hoje buscando nov
 
 
 📚&nbsp;[Cursos](https://www.udemy.com/share/101WK0B0AccVhbTH4=/) 👨🏼‍🏫 - Desenvolvimento Web Completo 2021 - 20 cursos + 20 projetos na [Udemy.com](https://www.udemy.com/share/101WK0B0AccVhbTH4=/) 
-
+<br/>
 <div align="center">
 
   ![Alessandro Nascimento github stats](https://github-readme-stats.vercel.app/api?username=nasc007&show_icons=true&theme=dark)
