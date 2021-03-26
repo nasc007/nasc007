@@ -26,7 +26,7 @@ Passei boa parte da minha carreira como Tecnico de Informaica, hoje buscando nov
   </div>
 <br/> :blush: &nbsp; Em Back-End pussuo conhecimento específico em Back-End
 <div>
-    <div>
+    <div><br/>
       &nbsp;    
       <a title="Chris Williams, Public domain, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Unofficial_JavaScript_logo_2.svg"><img width="40" alt="Unofficial JavaScript logo 2" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/64px-Unofficial_JavaScript_logo_2.svg.png"></a>
       &nbsp;
