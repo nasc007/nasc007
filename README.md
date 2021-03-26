@@ -13,16 +13,18 @@ Passei boa parte da minha carreira como Tecnico de Informaica, hoje buscando nov
   <div>
     <div>
       <img src="https://icons.getbootstrap.com/assets/img/icons-hero.png" width="70" title="Bootstrap">
-    </div>
-    <div class="font-family: brandon-grotesque;
+      <a href="https://www.slimframework.com/" 
+          style="font-family: brandon-grotesque;
                   font-weight: 70;
                   font-style: normal;
                   color: #719e40;
                   font-size: 120px;
                   letter-spacing: -3px;
                   line-height: 120px;
-                  text-align: center;"
-    >Slim</div>
+                  text-align: center;" 
+            rel="nofollow"
+        >Slim</a>
+    </div>
   </div>
 }
 <br/> :blush: &nbsp; Em Back-End pussuo conhecimento específico em **Javascript** e **PHP**
