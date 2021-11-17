@@ -18,6 +18,9 @@
     &nbsp;
     <a title="#" href="https://www.slimframework.com/"><img width="110" alt="Slim a micro framework for PHP" src="http://clubedosgeeks.com.br/wp-content/uploads/2016/03/slim.fw_.png">
     </a>
+    &nbsp;
+    <a title="#" href="https://laravel.com/"><img width="110" alt="Laravel" src="https://laravel.com/img/logomark.min.svg">
+    </a>
   </div>
 </div>
 <br/><h4 align="center">:blush: &nbsp; Em Back-End pussuo conhecimento específico em Back-End</h4>
